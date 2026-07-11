@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hybrid Training Exercise Overlay",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "exercise_id",
+      "enabled",
+      "planner_category",
+      "movement_pattern",
+      "tier"
+    ],
+    "properties": {
+      "exercise_id": {
+        "type": "string"
+      },
+      "enabled": {
+        "type": "boolean"
+      },
+      "planner_category": {
+        "enum": [
+          "Push",
+          "Pull",
+          "Legs",
+          "Accessories"
+        ]
+      },
+      "movement_pattern": {
+        "type": "string"
+      },
+      "tier": {
+        "type": "string"
+      },
+      "anchor": {
+        "type": "boolean"
+      },
+      "fatigue_band": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "base_lmf": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "base_sf": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "base_js": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "base_gf": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "base_sd": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "base_rc": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "base_sfr": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      },
+      "weekly_frequency": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "typical_recovery": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "avoid_when": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "coach_notes": {
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    }
+  }
+}
