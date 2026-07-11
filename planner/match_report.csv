@@ -1,0 +1,122 @@
+curated_name,matched_name,exercise_id,score,status
+Barbell Bench Press,Barbell Bench Press - Medium Grip,Barbell_Bench_Press_-_Medium_Grip,1.000,exact
+Barbell Overhead Press,Standing Military Press,Standing_Military_Press,1.000,exact
+Incline Dumbbell Press,Incline Dumbbell Press,Incline_Dumbbell_Press,1.000,exact
+Close-Grip Bench Press,Close-Grip Barbell Bench Press,Close-Grip_Barbell_Bench_Press,1.000,fuzzy
+Weighted Ring Dip,Weighted Bench Dip,Weighted_Bench_Dip,0.900,fuzzy
+Half-Kneeling Landmine Press,,custom_half_kneeling_landmine_press,0.592,custom
+Z Press,JM Press,JM_Press,0.867,fuzzy
+One-Arm Seated Dumbbell Shoulder Press,Dumbbell Shoulder Press,Dumbbell_Shoulder_Press,0.854,fuzzy
+Ring Push-Up,Decline Push-Up,Decline_Push-Up,0.841,fuzzy
+JM Press,JM Press,JM_Press,1.000,exact
+Cable Fly (Low-to-High),,custom_cable_fly_low_to_high,0.529,custom
+Cable Lateral Raise,Cable Seated Lateral Raise,Cable_Seated_Lateral_Raise,0.994,fuzzy
+Behind-the-Neck Snatch-Grip Push Jerk,,custom_behind_the_neck_snatch_grip_push_jerk,0.576,custom
+Handstand Push-Up,Handstand Push-Ups,Handstand_Push-Ups,1.000,fuzzy
+Sled Chest Press,Cable Chest Press,Cable_Chest_Press,0.948,fuzzy
+Pull-Up,Pullups,Pullups,1.000,exact
+Weighted Pull-Up,Weighted Pull Ups,Weighted_Pull_Ups,1.000,exact
+Barbell Row,Upright Barbell Row,Upright_Barbell_Row,0.867,fuzzy
+Chest-Supported Dumbbell Row,,custom_chest_supported_dumbbell_row,0.761,custom
+Seal Row,Sled Row,Sled_Row,0.817,fuzzy
+Meadows Row,,custom_meadows_row,0.698,custom
+Ring Row,,custom_ring_row,0.667,custom
+Neutral-Grip Lat Pulldown,Wide-Grip Lat Pulldown,Wide-Grip_Lat_Pulldown,0.929,fuzzy
+Rope Straight-Arm Pulldown,Rope Straight-Arm Pulldown,Rope_Straight-Arm_Pulldown,1.000,exact
+Face Pull,Face Pull,Face_Pull,1.000,exact
+Hammer Curl,Hammer Curls,Hammer_Curls,1.000,fuzzy
+Towel Pull-Up,,custom_towel_pull_up,0.721,custom
+One-Arm Upright Row,Dumbbell One-Arm Upright Row,Dumbbell_One-Arm_Upright_Row,0.969,fuzzy
+Single-Arm Trap-3 Raise,,custom_single_arm_trap_3_raise,0.770,custom
+Rope Climb,Rope Climb,Rope_Climb,1.000,exact
+Back Squat,Barbell Squat,Barbell_Squat,1.000,exact
+Deadlift,Barbell Deadlift,Barbell_Deadlift,1.000,exact
+Front Squat,Front Barbell Squat,Front_Barbell_Squat,1.000,exact
+Romanian Deadlift,Romanian Deadlift,Romanian_Deadlift,1.000,exact
+Bulgarian Split Squat,Barbell Side Split Squat,Barbell_Side_Split_Squat,0.791,fuzzy
+Front-Foot Elevated Split Squat,,custom_front_foot_elevated_split_squat,0.667,custom
+Walking Lunge,Barbell Walking Lunge,Barbell_Walking_Lunge,0.898,fuzzy
+Box Squat,Box Squat,Box_Squat,1.000,exact
+Trap-Bar Deadlift,Trap Bar Deadlift,Trap_Bar_Deadlift,1.000,exact
+Nordic Hamstring Curl,Seated Band Hamstring Curl,Seated_Band_Hamstring_Curl,0.803,fuzzy
+Barbell Hip Thrust,Barbell Hip Thrust,Barbell_Hip_Thrust,1.000,exact
+Single-Leg Good Morning,Stiff Leg Barbell Good Morning,Stiff_Leg_Barbell_Good_Morning,0.817,fuzzy
+Sled Push / Backward Drag,Backward Drag,Backward_Drag,0.822,fuzzy
+Standing Calf Raise,Standing Calf Raises,Standing_Calf_Raises,1.000,fuzzy
+Cossack Squat,Hack Squat,Hack_Squat,0.849,fuzzy
+Pallof Press,Pallof Press,Pallof_Press,1.000,exact
+Hanging Leg Raise,Hanging Leg Raise,Hanging_Leg_Raise,1.000,exact
+Ab Wheel Rollout,Ab Roller,Ab_Roller,1.000,exact
+Farmer Carry,,custom_farmer_carry,0.690,custom
+Suitcase Carry,,custom_suitcase_carry,0.638,custom
+Turkish Get-Up,,custom_turkish_get_up,0.649,custom
+Copenhagen Plank,,custom_copenhagen_plank,0.576,custom
+Cable External Rotation,Cable Internal Rotation,Cable_Internal_Rotation,1.000,fuzzy
+Serratus Wall Slide,,custom_serratus_wall_slide,0.526,custom
+Wrist Roller,Wrist Roller,Wrist_Roller,1.000,exact
+Landmine Rotational Punch,,custom_landmine_rotational_punch,0.578,custom
+L-Sit on Parallettes,,custom_l_sit_on_parallettes,0.571,custom
+Half-Kneeling Plate Halo,,custom_half_kneeling_plate_halo,0.638,custom
+Dead Bug with Band Pulldown,,custom_dead_bug_with_band_pulldown,0.637,custom
+Neck Flexion / Extension,,custom_neck_flexion_extension,0.676,custom
+Spoto Press,Floor Press,Floor_Press,0.794,fuzzy
+Larsen Press,Svend Press,Svend_Press,0.849,fuzzy
+Barbell Floor Press,Dumbbell Floor Press,Dumbbell_Floor_Press,0.972,fuzzy
+Pin Press,Pin Presses,Pin_Presses,0.967,fuzzy
+Swiss-Bar Bench Press,,custom_swiss_bar_bench_press,0.778,custom
+Viking Press,,custom_viking_press,0.762,custom
+Bradford Press,Standing Bradford Press,Standing_Bradford_Press,0.890,fuzzy
+Bottoms-Up Kettlebell Press,,custom_bottoms_up_kettlebell_press,0.771,custom
+Deficit Push-Up,Decline Push-Up,Decline_Push-Up,0.833,fuzzy
+Ring Archer Push-Up,Single-Arm Push-Up,Single-Arm_Push-Up,0.823,fuzzy
+Single-Arm Cable Chest Press,Incline Cable Chest Press,Incline_Cable_Chest_Press,0.930,fuzzy
+Dumbbell Crush Press,Dumbbell Bench Press,Dumbbell_Bench_Press,0.950,fuzzy
+Incline Hex Press,Incline Dumbbell Press,Incline_Dumbbell_Press,0.869,fuzzy
+Dead-Stop Dumbbell Bench Press,Dumbbell Bench Press,Dumbbell_Bench_Press,0.920,fuzzy
+Cuban Press,Cuban Press,Cuban_Press,1.000,exact
+Kroc Row,,custom_kroc_row,0.593,custom
+Yates Row,,custom_yates_row,0.655,custom
+Gorilla Row,,custom_gorilla_row,0.650,custom
+Batwing Row,,custom_batwing_row,0.720,custom
+Kelso Shrug,,custom_kelso_shrug,0.733,custom
+High Cable Row,Upright Cable Row,Upright_Cable_Row,0.939,fuzzy
+Cross-Body Lat Pulldown,,custom_cross_body_lat_pulldown,0.730,custom
+Inverted Barbell Row,Inverted Row,Inverted_Row,0.883,fuzzy
+Snatch-Grip High Pull,Snatch Pull,Snatch_Pull,0.787,fuzzy
+Bayesian Cable Curl,Lying Cable Curl,Lying_Cable_Curl,0.900,fuzzy
+Drag Curl,Drag Curl,Drag_Curl,1.000,exact
+Zottman Curl,Zottman Curl,Zottman_Curl,1.000,exact
+Cheat Curl,,custom_cheat_curl,0.762,custom
+Rope Hammer Curl,Alternate Hammer Curl,Alternate_Hammer_Curl,0.857,fuzzy
+Reverse-Grip EZ-Bar Curl,Close-Grip EZ Bar Curl,Close-Grip_EZ_Bar_Curl,0.959,fuzzy
+Prone Incline Dumbbell Shrug,Front Incline Dumbbell Raise,Front_Incline_Dumbbell_Raise,0.852,fuzzy
+Zercher Squat,Zercher Squats,Zercher_Squats,1.000,fuzzy
+Hatfield Squat,Chair Squat,Chair_Squat,0.787,fuzzy
+Cyclist Squat,,custom_cyclist_squat,0.733,custom
+Spanish Squat,,custom_spanish_squat,0.733,custom
+Belt Squat,Goblet Squat,Goblet_Squat,0.885,fuzzy
+Jefferson Deadlift,,custom_jefferson_deadlift,0.776,custom
+Dimel Deadlift,Axle Deadlift,Axle_Deadlift,0.807,fuzzy
+B-Stance Romanian Deadlift,Romanian Deadlift,Romanian_Deadlift,0.891,fuzzy
+Reverse Nordic Curl,Reverse Cable Curl,Reverse_Cable_Curl,0.857,fuzzy
+Sissy Squat,Weighted Sissy Squat,Weighted_Sissy_Squat,0.843,fuzzy
+Poliquin Step-Up,,custom_poliquin_step_up,0.603,custom
+Peterson Step-Up,,custom_peterson_step_up,0.683,custom
+Single-Leg Hip Thrust,,custom_single_leg_hip_thrust,0.767,custom
+Lateral Sled Drag,,custom_lateral_sled_drag,0.770,custom
+Tibialis Raise,,custom_tibialis_raise,0.638,custom
+Dead Bug,Dead Bug,Dead_Bug,1.000,exact
+Bird Dog,,custom_bird_dog,0.571,custom
+Stir-the-Pot,,custom_stir_the_pot,0.571,custom
+Hollow Body Hold,,custom_hollow_body_hold,0.525,custom
+Side Plank Reach-Through,,custom_side_plank_reach_through,0.619,custom
+Kettlebell Windmill,Kettlebell Windmill,Kettlebell_Windmill,1.000,exact
+Turkish Sit-Up,Press Sit-Up,Press_Sit-Up,0.792,fuzzy
+Jefferson Curl,Jefferson Squats,Jefferson_Squats,0.800,fuzzy
+Scapular Pull-Up,Scapular Pull-Up,Scapular_Pull-Up,1.000,exact
+Powell Raise,,custom_powell_raise,0.759,custom
+Cuban Rotation,,custom_cuban_rotation,0.712,custom
+Wrist Pronation / Supination,,custom_wrist_pronation_supination,0.605,custom
+Finger Extension Band Opens,,custom_finger_extension_band_opens,0.695,custom
+Hip Airplane,,custom_hip_airplane,0.671,custom
+Band-Resisted Side Plank Rotation,,custom_band_resisted_side_plank_rotation,0.577,custom

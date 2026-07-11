@@ -1,1 +1,1985 @@
-[]
+[
+  {
+    "id": "custom_half_kneeling_landmine_press",
+    "name": "Half-Kneeling Landmine Press",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Push",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Angled vertical push",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 1,
+    "base_sd": 2,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–48 h",
+    "avoid_when": [
+      "Acute shoulder pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Standing press",
+      "heavier load"
+    ],
+    "regressions_substitutions": [
+      "Tall-kneeling press"
+    ],
+    "modality": "Hypertrophy/Athletic",
+    "curated_equipment": "Landmine; barbell",
+    "curated_primary_muscles": [
+      "Anterior deltoid",
+      "upper chest"
+    ],
+    "curated_secondary_muscles": [
+      "Serratus",
+      "triceps",
+      "obliques"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_cable_fly_low_to_high",
+    "name": "Cable Fly (Low-to-High)",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Push",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Horizontal adduction",
+    "fatigue_band": "Low",
+    "base_lmf": 5,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 1,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Anterior shoulder pain in stretch"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Longer ROM",
+      "higher reps"
+    ],
+    "regressions_substitutions": [
+      "Pec deck",
+      "band fly"
+    ],
+    "modality": "Hypertrophy",
+    "curated_equipment": "Cable station",
+    "curated_primary_muscles": [
+      "Pectoralis major"
+    ],
+    "curated_secondary_muscles": [
+      "Anterior delts"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_behind_the_neck_snatch_grip_push_jerk",
+    "name": "Behind-the-Neck Snatch-Grip Push Jerk",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Push",
+    "tier": "Skill/Athletic",
+    "movement_pattern": "Explosive vertical push",
+    "fatigue_band": "High",
+    "base_lmf": 5,
+    "base_sf": 6,
+    "base_js": 7,
+    "base_gf": 2,
+    "base_sd": 8,
+    "base_rc": 7,
+    "base_sfr": 2,
+    "weekly_frequency": "0–1/week",
+    "typical_recovery": "48–72 h",
+    "avoid_when": [
+      "Shoulder mobility deficit",
+      "neck/shoulder pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Heavier jerk",
+      "combine with OHS"
+    ],
+    "regressions_substitutions": [
+      "PVC press/jerk",
+      "snatch push press"
+    ],
+    "modality": "Olympic skill",
+    "curated_equipment": "Barbell; rack",
+    "curated_primary_muscles": [
+      "Deltoids",
+      "triceps"
+    ],
+    "curated_secondary_muscles": [
+      "Traps",
+      "legs",
+      "core"
+    ],
+    "source": "Crossfit Session by Category.xlsx",
+    "anchor": false
+  },
+  {
+    "id": "custom_chest_supported_dumbbell_row",
+    "name": "Chest-Supported Dumbbell Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Horizontal pull",
+    "fatigue_band": "Moderate",
+    "base_lmf": 6,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 3,
+    "base_sd": 1,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–48 h",
+    "avoid_when": [
+      "Chest/bench discomfort"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Heavier DBs",
+      "elbows-out variation"
+    ],
+    "regressions_substitutions": [
+      "Machine row"
+    ],
+    "modality": "Hypertrophy",
+    "curated_equipment": "Dumbbells; incline bench",
+    "curated_primary_muscles": [
+      "Mid-back",
+      "lats"
+    ],
+    "curated_secondary_muscles": [
+      "Rear delts",
+      "biceps"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_meadows_row",
+    "name": "Meadows Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Unilateral horizontal pull",
+    "fatigue_band": "Moderate",
+    "base_lmf": 6,
+    "base_sf": 3,
+    "base_js": 3,
+    "base_gf": 5,
+    "base_sd": 2,
+    "base_rc": 4,
+    "base_sfr": 4,
+    "weekly_frequency": "1/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Grip or low-back fatigue"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Heavier load",
+      "stretch emphasis"
+    ],
+    "regressions_substitutions": [
+      "One-arm DB row"
+    ],
+    "modality": "Hypertrophy",
+    "curated_equipment": "Landmine; handle",
+    "curated_primary_muscles": [
+      "Lats",
+      "upper back"
+    ],
+    "curated_secondary_muscles": [
+      "Biceps",
+      "grip",
+      "obliques"
+    ],
+    "source": "Practitioner movement; Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_ring_row",
+    "name": "Ring Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Horizontal pull",
+    "fatigue_band": "Low-Moderate",
+    "base_lmf": 5,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 2,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Elbow irritation"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Feet elevated",
+      "weighted"
+    ],
+    "regressions_substitutions": [
+      "More upright ring row"
+    ],
+    "modality": "Hypertrophy/Stability",
+    "curated_equipment": "Rings",
+    "curated_primary_muscles": [
+      "Mid-back"
+    ],
+    "curated_secondary_muscles": [
+      "Biceps",
+      "rear delts",
+      "core"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_towel_pull_up",
+    "name": "Towel Pull-Up",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Skill/Athletic",
+    "movement_pattern": "Vertical pull + grip",
+    "fatigue_band": "High",
+    "base_lmf": 7,
+    "base_sf": 4,
+    "base_js": 5,
+    "base_gf": 9,
+    "base_sd": 4,
+    "base_rc": 7,
+    "base_sfr": 2,
+    "weekly_frequency": "0–1/week",
+    "typical_recovery": "48–72 h",
+    "avoid_when": [
+      "Grip/elbow fatigue",
+      "deadlift proximity"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Weighted",
+      "longer towel"
+    ],
+    "regressions_substitutions": [
+      "Towel hang",
+      "neutral pull-up"
+    ],
+    "modality": "Strength/Grip",
+    "curated_equipment": "Towel; pull-up bar",
+    "curated_primary_muscles": [
+      "Lats",
+      "grip"
+    ],
+    "curated_secondary_muscles": [
+      "Biceps",
+      "forearms",
+      "core"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_single_arm_trap_3_raise",
+    "name": "Single-Arm Trap-3 Raise",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Prehab",
+    "movement_pattern": "Scapular upward rotation",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 1,
+    "base_gf": 1,
+    "base_sd": 1,
+    "base_rc": 1,
+    "base_sfr": 5,
+    "weekly_frequency": "2–3/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Painful shoulder elevation"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Longer lever",
+      "pause"
+    ],
+    "regressions_substitutions": [
+      "Prone Y raise"
+    ],
+    "modality": "Resilience",
+    "curated_equipment": "Dumbbell; incline bench",
+    "curated_primary_muscles": [
+      "Lower trap"
+    ],
+    "curated_secondary_muscles": [
+      "Rear delt",
+      "rotator cuff"
+    ],
+    "source": "Crossfit Session by Category.xlsx",
+    "anchor": false
+  },
+  {
+    "id": "custom_front_foot_elevated_split_squat",
+    "name": "Front-Foot Elevated Split Squat",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Unilateral knee-dominant",
+    "fatigue_band": "Moderate",
+    "base_lmf": 7,
+    "base_sf": 3,
+    "base_js": 4,
+    "base_gf": 2,
+    "base_sd": 3,
+    "base_rc": 4,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Knee pain at deep flexion"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Greater elevation",
+      "front rack"
+    ],
+    "regressions_substitutions": [
+      "Bodyweight split squat"
+    ],
+    "modality": "Hypertrophy/Mobility",
+    "curated_equipment": "Dumbbells; plate/step",
+    "curated_primary_muscles": [
+      "Quads",
+      "glutes"
+    ],
+    "curated_secondary_muscles": [
+      "Adductors",
+      "calves",
+      "core"
+    ],
+    "source": "Crossfit Session by Category.xlsx",
+    "anchor": false
+  },
+  {
+    "id": "custom_farmer_carry",
+    "name": "Farmer Carry",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Athletic",
+    "movement_pattern": "Loaded carry",
+    "fatigue_band": "Moderate-High",
+    "base_lmf": 6,
+    "base_sf": 4,
+    "base_js": 4,
+    "base_gf": 9,
+    "base_sd": 3,
+    "base_rc": 6,
+    "base_sfr": 3,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "48 h",
+    "avoid_when": [
+      "Grip fatigue",
+      "deadlift/Olympic pull proximity"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Heavier",
+      "longer distance"
+    ],
+    "regressions_substitutions": [
+      "Suitcase carry",
+      "lighter carry"
+    ],
+    "modality": "Strength/Work capacity",
+    "curated_equipment": "Dumbbells; kettlebells; trap bar",
+    "curated_primary_muscles": [
+      "Grip",
+      "traps"
+    ],
+    "curated_secondary_muscles": [
+      "Core",
+      "glutes",
+      "calves"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_suitcase_carry",
+    "name": "Suitcase Carry",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Core",
+    "movement_pattern": "Anti-lateral flexion carry",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 3,
+    "base_gf": 7,
+    "base_sd": 2,
+    "base_rc": 4,
+    "base_sfr": 4,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Grip or back pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Overhead suitcase carry"
+    ],
+    "regressions_substitutions": [
+      "Static suitcase hold"
+    ],
+    "modality": "Core/Resilience",
+    "curated_equipment": "Dumbbell or kettlebell",
+    "curated_primary_muscles": [
+      "Obliques",
+      "QL"
+    ],
+    "curated_secondary_muscles": [
+      "Grip",
+      "glutes",
+      "traps"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_turkish_get_up",
+    "name": "Turkish Get-Up",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Skill/Athletic",
+    "movement_pattern": "Ground-to-stand multi-planar",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 3,
+    "base_js": 4,
+    "base_gf": 4,
+    "base_sd": 7,
+    "base_rc": 5,
+    "base_sfr": 4,
+    "weekly_frequency": "1/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Shoulder pain",
+      "high skill fatigue"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Heavier KB",
+      "bottoms-up"
+    ],
+    "regressions_substitutions": [
+      "Shoe get-up",
+      "half get-up"
+    ],
+    "modality": "Skill/Resilience",
+    "curated_equipment": "Kettlebell",
+    "curated_primary_muscles": [
+      "Shoulder stabilizers",
+      "core"
+    ],
+    "curated_secondary_muscles": [
+      "Glutes",
+      "hips",
+      "triceps"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_copenhagen_plank",
+    "name": "Copenhagen Plank",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Anti-lateral flexion/adductor",
+    "fatigue_band": "Moderate",
+    "base_lmf": 6,
+    "base_sf": 2,
+    "base_js": 3,
+    "base_gf": 1,
+    "base_sd": 4,
+    "base_rc": 4,
+    "base_sfr": 4,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Groin pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Long lever",
+      "dynamic reps"
+    ],
+    "regressions_substitutions": [
+      "Short-lever Copenhagen"
+    ],
+    "modality": "Resilience",
+    "curated_equipment": "Bench",
+    "curated_primary_muscles": [
+      "Adductors",
+      "obliques"
+    ],
+    "curated_secondary_muscles": [
+      "Glutes",
+      "shoulders"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_serratus_wall_slide",
+    "name": "Serratus Wall Slide",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Scapular upward rotation",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 1,
+    "base_gf": 0,
+    "base_sd": 2,
+    "base_rc": 1,
+    "base_sfr": 5,
+    "weekly_frequency": "2–4/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Acute shoulder pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Band around wrists",
+      "lift-off"
+    ],
+    "regressions_substitutions": [
+      "Wall reach"
+    ],
+    "modality": "Resilience",
+    "curated_equipment": "Wall; foam roller; band",
+    "curated_primary_muscles": [
+      "Serratus anterior"
+    ],
+    "curated_secondary_muscles": [
+      "Lower traps",
+      "rotator cuff"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_landmine_rotational_punch",
+    "name": "Landmine Rotational Punch",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Athletic",
+    "movement_pattern": "Rotation/power",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 3,
+    "base_js": 3,
+    "base_gf": 2,
+    "base_sd": 5,
+    "base_rc": 4,
+    "base_sfr": 4,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Shoulder/back pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Faster intent",
+      "split stance"
+    ],
+    "regressions_substitutions": [
+      "Cable punch"
+    ],
+    "modality": "Power/Athletic",
+    "curated_equipment": "Landmine",
+    "curated_primary_muscles": [
+      "Obliques",
+      "hips"
+    ],
+    "curated_secondary_muscles": [
+      "Shoulders",
+      "serratus",
+      "glutes"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_l_sit_on_parallettes",
+    "name": "L-Sit on Parallettes",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Skill/Core",
+    "movement_pattern": "Isometric trunk/hip flexion",
+    "fatigue_band": "Moderate",
+    "base_lmf": 6,
+    "base_sf": 3,
+    "base_js": 4,
+    "base_gf": 4,
+    "base_sd": 7,
+    "base_rc": 5,
+    "base_sfr": 4,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Wrist/shoulder irritation"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Longer holds",
+      "V-sit progression"
+    ],
+    "regressions_substitutions": [
+      "Tuck L-sit"
+    ],
+    "modality": "Gymnastics/Core",
+    "curated_equipment": "Parallettes",
+    "curated_primary_muscles": [
+      "Hip flexors",
+      "rectus abdominis"
+    ],
+    "curated_secondary_muscles": [
+      "Triceps",
+      "lats",
+      "quads"
+    ],
+    "source": "Crossfit Session by Category.xlsx",
+    "anchor": false
+  },
+  {
+    "id": "custom_half_kneeling_plate_halo",
+    "name": "Half-Kneeling Plate Halo",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Shoulder circumduction/anti-extension",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 2,
+    "base_sd": 3,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Shoulder pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Heavier",
+      "tall-kneeling"
+    ],
+    "regressions_substitutions": [
+      "Light plate halo"
+    ],
+    "modality": "Mobility/Resilience",
+    "curated_equipment": "Weight plate or kettlebell",
+    "curated_primary_muscles": [
+      "Shoulder stabilizers",
+      "core"
+    ],
+    "curated_secondary_muscles": [
+      "Triceps",
+      "upper back"
+    ],
+    "source": "Crossfit Session by Category.xlsx",
+    "anchor": false
+  },
+  {
+    "id": "custom_dead_bug_with_band_pulldown",
+    "name": "Dead Bug with Band Pulldown",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Core",
+    "movement_pattern": "Anti-extension",
+    "fatigue_band": "Low",
+    "base_lmf": 4,
+    "base_sf": 1,
+    "base_js": 1,
+    "base_gf": 1,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "2–4/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Acute low-back pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Long lever",
+      "heavier pulldown"
+    ],
+    "regressions_substitutions": [
+      "Basic dead bug"
+    ],
+    "modality": "Core/Resilience",
+    "curated_equipment": "Band or cable",
+    "curated_primary_muscles": [
+      "Anterior core"
+    ],
+    "curated_secondary_muscles": [
+      "Lats",
+      "hip flexors"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_neck_flexion_extension",
+    "name": "Neck Flexion / Extension",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Neck strengthening",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 4,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–48 h",
+    "avoid_when": [
+      "Neck symptoms, headache, radiating pain"
+    ],
+    "coach_notes": null,
+    "progressions": [
+      "Higher load",
+      "isometrics"
+    ],
+    "regressions_substitutions": [
+      "Manual isometrics"
+    ],
+    "modality": "Resilience",
+    "curated_equipment": "Harness; plate; manual resistance",
+    "curated_primary_muscles": [
+      "Cervical flexors/extensors"
+    ],
+    "curated_secondary_muscles": [
+      "Upper traps"
+    ],
+    "source": "Hybrid Training System",
+    "anchor": false
+  },
+  {
+    "id": "custom_swiss_bar_bench_press",
+    "name": "Swiss-Bar Bench Press",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Push",
+    "tier": "Primary accessory",
+    "movement_pattern": "Horizontal push",
+    "fatigue_band": "Moderate",
+    "base_lmf": 7,
+    "base_sf": 4,
+    "base_js": 3,
+    "base_gf": 1,
+    "base_sd": 3,
+    "base_rc": 5,
+    "base_sfr": 5,
+    "weekly_frequency": "1/week",
+    "typical_recovery": "48 h",
+    "avoid_when": [
+      "No specialty bar",
+      "wrist discomfort"
+    ],
+    "coach_notes": "Neutral grip can reduce shoulder stress.",
+    "progressions": [
+      "Paused",
+      "close handle"
+    ],
+    "regressions_substitutions": [
+      "Neutral-grip DB press"
+    ],
+    "modality": "Strength/Hypertrophy",
+    "curated_equipment": "Swiss bar; bench; rack",
+    "curated_primary_muscles": [
+      "Chest",
+      "triceps"
+    ],
+    "curated_secondary_muscles": [
+      "Anterior deltoid"
+    ],
+    "source": "EliteFTS / practitioner use",
+    "anchor": false
+  },
+  {
+    "id": "custom_viking_press",
+    "name": "Viking Press",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Push",
+    "tier": "Athletic",
+    "movement_pattern": "Angled vertical push",
+    "fatigue_band": "Moderate-High",
+    "base_lmf": 6,
+    "base_sf": 5,
+    "base_js": 4,
+    "base_gf": 1,
+    "base_sd": 4,
+    "base_rc": 6,
+    "base_sfr": 4,
+    "weekly_frequency": "1/week",
+    "typical_recovery": "48 h",
+    "avoid_when": [
+      "Shoulder pain",
+      "low-back compensation"
+    ],
+    "coach_notes": "Athletic overhead option with scalable leg drive.",
+    "progressions": [
+      "Push press style",
+      "unilateral"
+    ],
+    "regressions_substitutions": [
+      "Landmine press"
+    ],
+    "modality": "Strength/Power",
+    "curated_equipment": "Viking press or landmine setup",
+    "curated_primary_muscles": [
+      "Deltoids",
+      "triceps"
+    ],
+    "curated_secondary_muscles": [
+      "Upper chest",
+      "core",
+      "legs"
+    ],
+    "source": "Strongman practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_bottoms_up_kettlebell_press",
+    "name": "Bottoms-Up Kettlebell Press",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Push",
+    "tier": "Prehab/Athletic",
+    "movement_pattern": "Unilateral vertical push",
+    "fatigue_band": "Moderate",
+    "base_lmf": 4,
+    "base_sf": 2,
+    "base_js": 3,
+    "base_gf": 6,
+    "base_sd": 5,
+    "base_rc": 3,
+    "base_sfr": 4,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–48 h",
+    "avoid_when": [
+      "Wrist pain",
+      "poor grip control"
+    ],
+    "coach_notes": "High stability demand with low external load.",
+    "progressions": [
+      "Half-kneeling",
+      "walking press"
+    ],
+    "regressions_substitutions": [
+      "Standard KB press"
+    ],
+    "modality": "Stability/Strength",
+    "curated_equipment": "Kettlebell",
+    "curated_primary_muscles": [
+      "Deltoids",
+      "triceps"
+    ],
+    "curated_secondary_muscles": [
+      "Grip",
+      "rotator cuff",
+      "core"
+    ],
+    "source": "S&C practitioner use",
+    "anchor": false
+  },
+  {
+    "id": "custom_kroc_row",
+    "name": "Kroc Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Primary accessory",
+    "movement_pattern": "Unilateral horizontal pull",
+    "fatigue_band": "High",
+    "base_lmf": 8,
+    "base_sf": 6,
+    "base_js": 4,
+    "base_gf": 8,
+    "base_sd": 3,
+    "base_rc": 7,
+    "base_sfr": 3,
+    "weekly_frequency": "0–1/week",
+    "typical_recovery": "48–72 h",
+    "avoid_when": [
+      "Low-back or grip fatigue"
+    ],
+    "coach_notes": "High-load, high-rep row with substantial fatigue.",
+    "progressions": [
+      "Higher reps",
+      "straps"
+    ],
+    "regressions_substitutions": [
+      "One-arm DB row"
+    ],
+    "modality": "Strength/Hypertrophy",
+    "curated_equipment": "Heavy dumbbell; bench",
+    "curated_primary_muscles": [
+      "Lats",
+      "upper back"
+    ],
+    "curated_secondary_muscles": [
+      "Biceps",
+      "grip",
+      "erectors"
+    ],
+    "source": "EliteFTS practitioner movement",
+    "anchor": false
+  },
+  {
+    "id": "custom_yates_row",
+    "name": "Yates Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Primary accessory",
+    "movement_pattern": "Underhand horizontal pull",
+    "fatigue_band": "High",
+    "base_lmf": 7,
+    "base_sf": 5,
+    "base_js": 4,
+    "base_gf": 5,
+    "base_sd": 3,
+    "base_rc": 6,
+    "base_sfr": 4,
+    "weekly_frequency": "1/week",
+    "typical_recovery": "48 h",
+    "avoid_when": [
+      "Biceps tendon or low-back irritation"
+    ],
+    "coach_notes": "More upright torso and supinated grip.",
+    "progressions": [
+      "Paused",
+      "tempo"
+    ],
+    "regressions_substitutions": [
+      "Cable row"
+    ],
+    "modality": "Strength/Hypertrophy",
+    "curated_equipment": "Barbell",
+    "curated_primary_muscles": [
+      "Lats",
+      "mid-back"
+    ],
+    "curated_secondary_muscles": [
+      "Biceps",
+      "erectors",
+      "grip"
+    ],
+    "source": "Bodybuilding practitioner use",
+    "anchor": false
+  },
+  {
+    "id": "custom_gorilla_row",
+    "name": "Gorilla Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Alternating horizontal pull",
+    "fatigue_band": "Moderate",
+    "base_lmf": 6,
+    "base_sf": 3,
+    "base_js": 3,
+    "base_gf": 5,
+    "base_sd": 4,
+    "base_rc": 4,
+    "base_sfr": 4,
+    "weekly_frequency": "1/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Low-back fatigue",
+      "grip fatigue"
+    ],
+    "coach_notes": "Combines rowing with anti-rotation and hinge stability.",
+    "progressions": [
+      "Heavier KBs",
+      "dead-stop"
+    ],
+    "regressions_substitutions": [
+      "One-arm KB row"
+    ],
+    "modality": "Athletic/Hypertrophy",
+    "curated_equipment": "Two kettlebells",
+    "curated_primary_muscles": [
+      "Lats",
+      "upper back"
+    ],
+    "curated_secondary_muscles": [
+      "Core",
+      "grip",
+      "glutes"
+    ],
+    "source": "Kettlebell practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_batwing_row",
+    "name": "Batwing Row",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Isometric horizontal pull",
+    "fatigue_band": "Low-Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 2,
+    "base_sd": 2,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Chest discomfort"
+    ],
+    "coach_notes": "Excellent scapular retraction and upper-back control.",
+    "progressions": [
+      "Longer holds",
+      "heavier DBs"
+    ],
+    "regressions_substitutions": [
+      "Chest-supported row"
+    ],
+    "modality": "Hypertrophy/Control",
+    "curated_equipment": "Dumbbells; incline bench",
+    "curated_primary_muscles": [
+      "Mid-back",
+      "rear delts"
+    ],
+    "curated_secondary_muscles": [
+      "Lats",
+      "biceps"
+    ],
+    "source": "Dan John practitioner movement",
+    "anchor": false
+  },
+  {
+    "id": "custom_kelso_shrug",
+    "name": "Kelso Shrug",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Scapular retraction",
+    "fatigue_band": "Low",
+    "base_lmf": 4,
+    "base_sf": 1,
+    "base_js": 1,
+    "base_gf": 2,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Shoulder discomfort"
+    ],
+    "coach_notes": "Trains scapular motion with minimal elbow flexion.",
+    "progressions": [
+      "Long pauses",
+      "heavier load"
+    ],
+    "regressions_substitutions": [
+      "Prone scapular retraction"
+    ],
+    "modality": "Hypertrophy/Resilience",
+    "curated_equipment": "Incline bench; barbell or dumbbells",
+    "curated_primary_muscles": [
+      "Mid/lower traps",
+      "rhomboids"
+    ],
+    "curated_secondary_muscles": [
+      "Rear delts"
+    ],
+    "source": "Bodybuilding/S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_cross_body_lat_pulldown",
+    "name": "Cross-Body Lat Pulldown",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Unilateral vertical pull",
+    "fatigue_band": "Low-Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 2,
+    "base_sd": 2,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Elbow or shoulder pain"
+    ],
+    "coach_notes": "Allows individualized lat line of pull.",
+    "progressions": [
+      "Kneeling",
+      "longer stretch"
+    ],
+    "regressions_substitutions": [
+      "Single-arm pulldown"
+    ],
+    "modality": "Hypertrophy",
+    "curated_equipment": "Cable station",
+    "curated_primary_muscles": [
+      "Lats"
+    ],
+    "curated_secondary_muscles": [
+      "Biceps",
+      "obliques"
+    ],
+    "source": "Bodybuilding practitioner use",
+    "anchor": false
+  },
+  {
+    "id": "custom_cheat_curl",
+    "name": "Cheat Curl",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Pull",
+    "tier": "Primary accessory",
+    "movement_pattern": "Elbow flexion with body English",
+    "fatigue_band": "Moderate-High",
+    "base_lmf": 6,
+    "base_sf": 4,
+    "base_js": 3,
+    "base_gf": 4,
+    "base_sd": 3,
+    "base_rc": 5,
+    "base_sfr": 3,
+    "weekly_frequency": "0–1/week",
+    "typical_recovery": "48 h",
+    "avoid_when": [
+      "Low-back or elbow pain"
+    ],
+    "coach_notes": "Use only with controlled eccentric and experienced lifters.",
+    "progressions": [
+      "Controlled eccentric",
+      "heavier load"
+    ],
+    "regressions_substitutions": [
+      "Strict barbell curl"
+    ],
+    "modality": "Strength/Hypertrophy",
+    "curated_equipment": "Barbell",
+    "curated_primary_muscles": [
+      "Biceps"
+    ],
+    "curated_secondary_muscles": [
+      "Forearms",
+      "upper back",
+      "hips"
+    ],
+    "source": "Old-school bodybuilding practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_cyclist_squat",
+    "name": "Cyclist Squat",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Knee-dominant squat",
+    "fatigue_band": "Moderate",
+    "base_lmf": 7,
+    "base_sf": 3,
+    "base_js": 4,
+    "base_gf": 1,
+    "base_sd": 2,
+    "base_rc": 4,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "36–48 h",
+    "avoid_when": [
+      "Knee pain in deep flexion"
+    ],
+    "coach_notes": "Strong quad bias with low systemic cost.",
+    "progressions": [
+      "Narrower stance",
+      "slower eccentric"
+    ],
+    "regressions_substitutions": [
+      "Goblet squat"
+    ],
+    "modality": "Hypertrophy",
+    "curated_equipment": "Heels-elevated setup; dumbbell or barbell",
+    "curated_primary_muscles": [
+      "Quads"
+    ],
+    "curated_secondary_muscles": [
+      "Glutes",
+      "calves"
+    ],
+    "source": "Bodybuilding practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_spanish_squat",
+    "name": "Spanish Squat",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Prehab/Hypertrophy",
+    "movement_pattern": "Knee-dominant squat",
+    "fatigue_band": "Low-Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 2,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Acute knee pain not tolerating position"
+    ],
+    "coach_notes": "Useful quad loading with upright shin and torso.",
+    "progressions": [
+      "Isometric holds",
+      "loaded"
+    ],
+    "regressions_substitutions": [
+      "Wall sit"
+    ],
+    "modality": "Resilience/Hypertrophy",
+    "curated_equipment": "Thick band or strap",
+    "curated_primary_muscles": [
+      "Quads"
+    ],
+    "curated_secondary_muscles": [
+      "Glutes",
+      "core"
+    ],
+    "source": "Rehab/S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_jefferson_deadlift",
+    "name": "Jefferson Deadlift",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Primary accessory",
+    "movement_pattern": "Rotational stance hinge",
+    "fatigue_band": "High",
+    "base_lmf": 7,
+    "base_sf": 6,
+    "base_js": 6,
+    "base_gf": 5,
+    "base_sd": 6,
+    "base_rc": 7,
+    "base_sfr": 3,
+    "weekly_frequency": "0–1/week",
+    "typical_recovery": "48–72 h",
+    "avoid_when": [
+      "Hip/back pain",
+      "poor asymmetry control"
+    ],
+    "coach_notes": "Use cautiously as an asymmetrical hinge.",
+    "progressions": [
+      "Heavier triples",
+      "stance variations"
+    ],
+    "regressions_substitutions": [
+      "Trap-bar deadlift"
+    ],
+    "modality": "Strength/Athletic",
+    "curated_equipment": "Barbell",
+    "curated_primary_muscles": [
+      "Glutes",
+      "hamstrings",
+      "adductors"
+    ],
+    "curated_secondary_muscles": [
+      "Core",
+      "grip",
+      "quads"
+    ],
+    "source": "Old-time strength practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_poliquin_step_up",
+    "name": "Poliquin Step-Up",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Prehab/Hypertrophy",
+    "movement_pattern": "Unilateral knee-dominant",
+    "fatigue_band": "Low-Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 3,
+    "base_gf": 1,
+    "base_sd": 2,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Knee pain"
+    ],
+    "coach_notes": "Controlled knee-over-toe loading.",
+    "progressions": [
+      "Higher step",
+      "added load"
+    ],
+    "regressions_substitutions": [
+      "Peterson step-up"
+    ],
+    "modality": "Resilience/Hypertrophy",
+    "curated_equipment": "Slant board or step",
+    "curated_primary_muscles": [
+      "Quads",
+      "VMO"
+    ],
+    "curated_secondary_muscles": [
+      "Calves",
+      "glutes"
+    ],
+    "source": "Poliquin practitioner method",
+    "anchor": false
+  },
+  {
+    "id": "custom_peterson_step_up",
+    "name": "Peterson Step-Up",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Prehab",
+    "movement_pattern": "Unilateral knee-dominant",
+    "fatigue_band": "Low",
+    "base_lmf": 4,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Acute knee pain"
+    ],
+    "coach_notes": "Small-range quad and knee-control drill.",
+    "progressions": [
+      "Added load",
+      "higher step"
+    ],
+    "regressions_substitutions": [
+      "Assisted step-down"
+    ],
+    "modality": "Resilience",
+    "curated_equipment": "Low step",
+    "curated_primary_muscles": [
+      "Quads",
+      "VMO"
+    ],
+    "curated_secondary_muscles": [
+      "Calves",
+      "glutes"
+    ],
+    "source": "Rehab/S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_single_leg_hip_thrust",
+    "name": "Single-Leg Hip Thrust",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Hypertrophy",
+    "movement_pattern": "Unilateral hip extension",
+    "fatigue_band": "Moderate",
+    "base_lmf": 6,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 1,
+    "base_sd": 3,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–48 h",
+    "avoid_when": [
+      "Hamstring cramping",
+      "back discomfort"
+    ],
+    "coach_notes": "Unilateral glute work with low axial fatigue.",
+    "progressions": [
+      "Loaded",
+      "pause"
+    ],
+    "regressions_substitutions": [
+      "Glute bridge"
+    ],
+    "modality": "Hypertrophy/Stability",
+    "curated_equipment": "Bench; bodyweight or dumbbell",
+    "curated_primary_muscles": [
+      "Glutes"
+    ],
+    "curated_secondary_muscles": [
+      "Hamstrings",
+      "core"
+    ],
+    "source": "Standard S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_lateral_sled_drag",
+    "name": "Lateral Sled Drag",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Athletic",
+    "movement_pattern": "Frontal-plane locomotion",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 3,
+    "base_js": 2,
+    "base_gf": 1,
+    "base_sd": 3,
+    "base_rc": 4,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–48 h",
+    "avoid_when": [
+      "Knee/hip pain"
+    ],
+    "coach_notes": "Low-eccentric frontal-plane conditioning.",
+    "progressions": [
+      "Heavier load",
+      "longer distance"
+    ],
+    "regressions_substitutions": [
+      "Band lateral walk"
+    ],
+    "modality": "Work capacity/Athletic",
+    "curated_equipment": "Sled; strap",
+    "curated_primary_muscles": [
+      "Glute medius",
+      "quads"
+    ],
+    "curated_secondary_muscles": [
+      "Adductors",
+      "calves"
+    ],
+    "source": "Strongman/S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_tibialis_raise",
+    "name": "Tibialis Raise",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Legs",
+    "tier": "Prehab",
+    "movement_pattern": "Ankle dorsiflexion",
+    "fatigue_band": "Low",
+    "base_lmf": 4,
+    "base_sf": 1,
+    "base_js": 1,
+    "base_gf": 0,
+    "base_sd": 1,
+    "base_rc": 1,
+    "base_sfr": 5,
+    "weekly_frequency": "2–4/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Anterior ankle pain"
+    ],
+    "coach_notes": "Supports ankle capacity and lower-leg balance.",
+    "progressions": [
+      "Weighted",
+      "single-leg"
+    ],
+    "regressions_substitutions": [
+      "Wall-supported raise"
+    ],
+    "modality": "Resilience/Hypertrophy",
+    "curated_equipment": "Wall or tibialis machine",
+    "curated_primary_muscles": [
+      "Tibialis anterior"
+    ],
+    "curated_secondary_muscles": [
+      "Foot/ankle stabilizers"
+    ],
+    "source": "Running/S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_bird_dog",
+    "name": "Bird Dog",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Anti-rotation/extension",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 1,
+    "base_gf": 0,
+    "base_sd": 3,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "2–4/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Back pain or poor control"
+    ],
+    "coach_notes": "Low-fatigue contralateral stability.",
+    "progressions": [
+      "Band resistance",
+      "row variation"
+    ],
+    "regressions_substitutions": [
+      "Quadruped arm or leg only"
+    ],
+    "modality": "Core/Resilience",
+    "curated_equipment": "Bodyweight",
+    "curated_primary_muscles": [
+      "Core",
+      "glutes"
+    ],
+    "curated_secondary_muscles": [
+      "Shoulder stabilizers",
+      "erectors"
+    ],
+    "source": "McGill / S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_stir_the_pot",
+    "name": "Stir-the-Pot",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Core",
+    "movement_pattern": "Anti-extension",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 3,
+    "base_gf": 0,
+    "base_sd": 4,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Shoulder or low-back pain"
+    ],
+    "coach_notes": "Dynamic anti-extension with shoulder stability.",
+    "progressions": [
+      "Larger circles",
+      "longer sets"
+    ],
+    "regressions_substitutions": [
+      "Forearm plank"
+    ],
+    "modality": "Core",
+    "curated_equipment": "Swiss ball",
+    "curated_primary_muscles": [
+      "Anterior core"
+    ],
+    "curated_secondary_muscles": [
+      "Shoulders",
+      "lats",
+      "glutes"
+    ],
+    "source": "S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_hollow_body_hold",
+    "name": "Hollow Body Hold",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Core",
+    "movement_pattern": "Anti-extension",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 4,
+    "base_rc": 3,
+    "base_sfr": 4,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Low-back pain or loss of contact"
+    ],
+    "coach_notes": "Fundamental gymnastics trunk position.",
+    "progressions": [
+      "Rocks",
+      "arms overhead"
+    ],
+    "regressions_substitutions": [
+      "Tuck hollow hold"
+    ],
+    "modality": "Gymnastics/Core",
+    "curated_equipment": "Bodyweight",
+    "curated_primary_muscles": [
+      "Anterior core"
+    ],
+    "curated_secondary_muscles": [
+      "Hip flexors",
+      "serratus"
+    ],
+    "source": "Gymnastics practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_side_plank_reach_through",
+    "name": "Side Plank Reach-Through",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Core",
+    "movement_pattern": "Anti-lateral flexion + rotation",
+    "fatigue_band": "Low-Moderate",
+    "base_lmf": 4,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 3,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Shoulder pain"
+    ],
+    "coach_notes": "Combines lateral trunk stability with controlled rotation.",
+    "progressions": [
+      "Loaded",
+      "feet elevated"
+    ],
+    "regressions_substitutions": [
+      "Side plank"
+    ],
+    "modality": "Core",
+    "curated_equipment": "Bodyweight",
+    "curated_primary_muscles": [
+      "Obliques"
+    ],
+    "curated_secondary_muscles": [
+      "Shoulder stabilizers",
+      "glutes"
+    ],
+    "source": "S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_powell_raise",
+    "name": "Powell Raise",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Horizontal shoulder abduction",
+    "fatigue_band": "Low",
+    "base_lmf": 4,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 1,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Shoulder pain"
+    ],
+    "coach_notes": "Targets rear delts with low systemic fatigue.",
+    "progressions": [
+      "Longer lever",
+      "pause"
+    ],
+    "regressions_substitutions": [
+      "Side-lying rear delt raise"
+    ],
+    "modality": "Resilience/Hypertrophy",
+    "curated_equipment": "Dumbbell; bench",
+    "curated_primary_muscles": [
+      "Rear deltoid"
+    ],
+    "curated_secondary_muscles": [
+      "Rotator cuff",
+      "mid traps"
+    ],
+    "source": "Charles Poliquin practitioner movement",
+    "anchor": false
+  },
+  {
+    "id": "custom_cuban_rotation",
+    "name": "Cuban Rotation",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Shoulder external rotation",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 1,
+    "base_sd": 3,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "2–4/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Shoulder pain"
+    ],
+    "coach_notes": "Use light loads and strict control.",
+    "progressions": [
+      "Cable",
+      "slower tempo"
+    ],
+    "regressions_substitutions": [
+      "Band external rotation"
+    ],
+    "modality": "Resilience",
+    "curated_equipment": "Light dumbbells or cable",
+    "curated_primary_muscles": [
+      "External rotators"
+    ],
+    "curated_secondary_muscles": [
+      "Rear delts",
+      "traps"
+    ],
+    "source": "S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_wrist_pronation_supination",
+    "name": "Wrist Pronation / Supination",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Forearm rotation",
+    "fatigue_band": "Low",
+    "base_lmf": 3,
+    "base_sf": 1,
+    "base_js": 2,
+    "base_gf": 3,
+    "base_sd": 2,
+    "base_rc": 2,
+    "base_sfr": 5,
+    "weekly_frequency": "2–4/week",
+    "typical_recovery": "24 h",
+    "avoid_when": [
+      "Wrist/elbow pain"
+    ],
+    "coach_notes": "Useful for wrist and elbow resilience.",
+    "progressions": [
+      "Longer lever",
+      "slower eccentric"
+    ],
+    "regressions_substitutions": [
+      "Band-assisted rotation"
+    ],
+    "modality": "Resilience/Grip",
+    "curated_equipment": "Hammer or light dumbbell",
+    "curated_primary_muscles": [
+      "Forearm pronators/supinators"
+    ],
+    "curated_secondary_muscles": [
+      "Grip musculature"
+    ],
+    "source": "Rehab/S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_finger_extension_band_opens",
+    "name": "Finger Extension Band Opens",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab",
+    "movement_pattern": "Finger extension",
+    "fatigue_band": "Low",
+    "base_lmf": 2,
+    "base_sf": 0,
+    "base_js": 1,
+    "base_gf": 2,
+    "base_sd": 1,
+    "base_rc": 1,
+    "base_sfr": 5,
+    "weekly_frequency": "3–6/week",
+    "typical_recovery": "12–24 h",
+    "avoid_when": [
+      "Hand pain"
+    ],
+    "coach_notes": "Balances high volumes of gripping.",
+    "progressions": [
+      "More resistance",
+      "longer sets"
+    ],
+    "regressions_substitutions": [
+      "Rubber band opens"
+    ],
+    "modality": "Resilience/Grip",
+    "curated_equipment": "Finger band",
+    "curated_primary_muscles": [
+      "Finger extensors"
+    ],
+    "curated_secondary_muscles": [
+      "Forearm extensors"
+    ],
+    "source": "Climbing/grip practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_hip_airplane",
+    "name": "Hip Airplane",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Prehab/Athletic",
+    "movement_pattern": "Single-leg hinge + hip rotation",
+    "fatigue_band": "Moderate",
+    "base_lmf": 4,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 1,
+    "base_sd": 6,
+    "base_rc": 3,
+    "base_sfr": 4,
+    "weekly_frequency": "1–3/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Hip pain",
+      "poor balance"
+    ],
+    "coach_notes": "High-value single-leg hip-control drill.",
+    "progressions": [
+      "Unsupported",
+      "loaded"
+    ],
+    "regressions_substitutions": [
+      "Supported hip airplane"
+    ],
+    "modality": "Stability/Mobility",
+    "curated_equipment": "Bodyweight; support optional",
+    "curated_primary_muscles": [
+      "Glute medius",
+      "deep hip rotators"
+    ],
+    "curated_secondary_muscles": [
+      "Core",
+      "hamstrings",
+      "foot stabilizers"
+    ],
+    "source": "S&C practice",
+    "anchor": false
+  },
+  {
+    "id": "custom_band_resisted_side_plank_rotation",
+    "name": "Band-Resisted Side Plank Rotation",
+    "enabled": true,
+    "source_type": "custom",
+    "planner_category": "Accessories",
+    "tier": "Core",
+    "movement_pattern": "Anti-lateral flexion + rotation",
+    "fatigue_band": "Moderate",
+    "base_lmf": 5,
+    "base_sf": 2,
+    "base_js": 2,
+    "base_gf": 0,
+    "base_sd": 4,
+    "base_rc": 3,
+    "base_sfr": 5,
+    "weekly_frequency": "1–2/week",
+    "typical_recovery": "24–36 h",
+    "avoid_when": [
+      "Shoulder or low-back pain"
+    ],
+    "coach_notes": "Combines trunk stiffness with resisted rotation.",
+    "progressions": [
+      "More band tension",
+      "longer lever"
+    ],
+    "regressions_substitutions": [
+      "Side plank reach-through"
+    ],
+    "modality": "Core/Athletic",
+    "curated_equipment": "Band",
+    "curated_primary_muscles": [
+      "Obliques"
+    ],
+    "curated_secondary_muscles": [
+      "Shoulder stabilizers",
+      "glutes"
+    ],
+    "source": "Athlete program booklet",
+    "anchor": false
+  }
+]
